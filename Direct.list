@@ -15,7 +15,6 @@ DOMAIN-KEYWORD,ghp
 DOMAIN-KEYWORD,douyu
 DOMAIN-KEYWORD,dida365
 DOMAIN-KEYWORD,edgesrv.com
-DOMAIN-KEYWORD,qianxun.com
 
 
 # 360
@@ -192,6 +191,9 @@ DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,paipai.com
+DOMAIN-SUFFIX,qianxun.com
+DOMAIN-SUFFIX,jdcloud-oss.com
+DOMAIN-SUFFIX,5gm.wo.cn
 
 # Kingsoft
 DOMAIN-SUFFIX,iciba.com
