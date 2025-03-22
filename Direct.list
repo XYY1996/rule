@@ -597,4 +597,7 @@ DOMAIN-KEYWORD,sma-dk
 DOMAIN-SUFFIX,pipi.cn
 DOMAIN-SUFFIX,bankcomm.cn
 DOMAIN-SUFFIX,getui.com
+
+# CN BANK
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,wechatpay.cn
