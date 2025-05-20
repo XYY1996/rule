@@ -30,6 +30,9 @@ DOMAIN-SUFFIX,so.com
 
 # 58
 DOMAIN-SUFFIX,58.com
+DOMAIN-SUFFIX,anjuke.com
+DOMAIN-SUFFIX,58.com.cn
+DOMAIN-SUFFIX,58cdn.com.cn
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com
