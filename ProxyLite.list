@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,biccam.com
 DOMAIN-SUFFIX,colamanga.com
+DOMAIN-SUFFIX,v2fy.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
