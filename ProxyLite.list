@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,twbzmg.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,bzmg
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
